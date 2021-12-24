@@ -88,7 +88,7 @@ Cost_graph = {
                     ('Abottabad','Mansehra') : 100,
                     ('Mansehra','Balakot') : 250,
                     ('Mansehra','Batgram') : 400,
-                    ('Batgram','Besham') : 5.00,
+                    ('Batgram','Besham') : 85,
                     ('Besham','Dassu') : 380,
                     ('Dasu','Chilas') : 380,
                     ('Chilas','Raikot Bridge') : 440,
