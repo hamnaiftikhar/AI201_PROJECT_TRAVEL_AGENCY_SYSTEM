@@ -15,3 +15,6 @@ Requirements for our project:
 
 •	We will be using search algorithms such as UCS (Uniform Cost Search).
 •	Basic python concepts.
+
+
+hi
