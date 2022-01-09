@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 23 21:43:07 2021
-
-@author: user
-"""
-
 Abottabad Mansehra 100 3.33
 Mansehra Balakot 250 10.00
 Mansehra Batgram 400 15.25
@@ -41,4 +34,4 @@ Chilam Burzill_Pass 80 5.50
 Burzill_Pass Minimerg 105 6.00
 Minimerg Domel 65 2.50
 Minimerg Kamri 65 2.50
-Astore Rama_Lake 85 3.75
+Kamri Yasin 65 2.50
